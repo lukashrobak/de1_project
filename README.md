@@ -47,7 +47,7 @@ Riadenie jasu a farieb RGB LED diódy je implementované pomocou jazyka VHDL. Na
 
 ## Referencie
 
-* [Button debouncing]([https://en.wikipedia.org/wiki/Pulse-width_modulation](https://github.com/tomas-fryza/vhdl-labs/tree/master/examples/_debounce))
+* [Button debouncing](https://github.com/tomas-fryza/vhdl-labs/tree/master/examples/_debounce)
 * [Testbench a Kontrola kódu](https://chatgpt.com/)
-* [Constrainový súbor](https://www.google.com/search?q=https://raw.githubusercontent.com/Digilent/digilent-xdc/master/Nexys-A7-50T-Master.xdc) (upravený pre potreby projektu)
+* [Constrainový súbor](https://www.google.com/search?q=https://raw.githubusercontent.com/Digilent/digilent-xdc/master/Nexys-A7-50T-Master.xdc)
 
