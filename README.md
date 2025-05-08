@@ -2,9 +2,9 @@
 
 ## Členovia tímu
 
-*Lukáš Hrobák
-*Richard Tomanička
-*Jan Trojak
+* Lukáš Hrobák
+* Richard Tomanička
+* Jan Trojak
 
 ## Abstrakt
 
