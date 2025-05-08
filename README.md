@@ -37,7 +37,7 @@ Riadenie jasu a farieb RGB LED diódy je implementované pomocou jazyka VHDL. Na
 
 ### Top level schéma
 
-![PWM blokové schéma](schema1.png)
+![PWM blokové schéma](schema.png)
 
 
 ### Simulácia komponentov
