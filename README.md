@@ -46,9 +46,9 @@ Riadenie jasu a farieb RGB LED diódy je implementované pomocou jazyka VHDL. Na
 
 ### Fotografie dosky Nexys A7-50T s implementovaným kódom
 
-![Fotografia 1](foto1.png)
+![Fotografia 1](foto1.jpg)
 
-![Fotografia 2](foto2.png)
+![Fotografia 2](foto2.jpg)
 
 ## Referencie
 
