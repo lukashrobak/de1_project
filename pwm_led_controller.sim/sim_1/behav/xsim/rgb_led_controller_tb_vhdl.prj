@@ -1,9 +1,0 @@
-# compile vhdl design source files
-vhdl xil_defaultlib  \
-"../../../../pwm_controller.srcs/sources_1/new/button_pulse.vhd" \
-"../../../../pwm_controller.srcs/sources_1/new/pwm.vhd" \
-"../../../../pwm_controller.srcs/sources_1/new/rbg_led_controller.vhd" \
-"../../../../pwm_controller.srcs/sim_1/new/rgb_led_controller_tb.vhd" \
-
-# Do not sort compile order
-nosort
