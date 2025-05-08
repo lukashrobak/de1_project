@@ -37,13 +37,18 @@ Riadenie jasu a farieb RGB LED diódy je implementované pomocou jazyka VHDL. Na
 
 ### Top level schéma
 
-![PWM bloková schéma](schema.png)
+![PWM blokové schéma](schema.png)
 
 
 ### Simulácia komponentov
 
-![Simulace pwm](sim.png)
+![Simulácia](sim.png)
 
+### Fotografie dosky Nexys A7-50T s implementovaným kódom
+
+![Fotografia 1](foto1.png)
+
+![Fotografia 2](foto2.png)
 
 ## Referencie
 
