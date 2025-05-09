@@ -2,9 +2,9 @@
 
 ## Členovia tímu
 
-* Lukáš Hrobák
-* Richard Tomanička
-* Jan Trojak
+* Lukáš Hrobák - písanie kódu
+* Richard Tomanička - dokumentácia, schéma
+* Jan Trojak - testbench, písanie kódu
 
 ## Abstrakt
 
